@@ -15,3 +15,8 @@ map <Leader>o <Action>(OptimizeImports)
 map <Leader>rn <Action>(RenameElement)
 map <Leader>jd <Action>(QuickJavaDoc)
 map <Leader>h <Action>(ShowHoverInfo)
+map <Leader>m <Action>(ShowBookmarks)
+map <Leader>tm <Action>(ToggleBookmarks)
+map <Leader>t <Action>(ActivateTerminalToolWindow)
+
+map <Leader>ya ggVGy

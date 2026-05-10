@@ -1,0 +1,7 @@
+.DS_Store
+
+# tmux plugins are re-cloned by install.sh, not vendored
+.config/tmux/plugins/
+
+# nvim runtime caches (lazy-lock.json IS committed — it pins plugin versions)
+.config/nvim/.netrwhist
